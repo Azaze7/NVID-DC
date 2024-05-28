@@ -1,5 +1,5 @@
 # NVID-DC
-Final Project/Presentation for CS 4177, Software Vulnerabilities. Showcases the use of Powershell-Empire, a now deprecated post-exploitation framework.
+Final Project/Presentation for CS 4316/5313, Computer Networks. Showcases Network Video & Image Displayer Using Docker Containers, a Docker system for sending media over a local network.
 
 <p align="center">
 <img src="https://github.com/Azaze7/Fallen-Empire/blob/main/Powershell_Empire_Screenshot.png" width="539" height="306">
@@ -9,9 +9,9 @@ Final Project/Presentation for CS 4177, Software Vulnerabilities. Showcases the 
 
 Special Thanks to:
 
+Erik S. LaNeave,
 Fernando H. Remes,
-Jose San Miguel,
-Hector Diaz.
+Jacob A. Gonzalez.
 
 ## 🔎 Table of Contents
 
