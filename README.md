@@ -10,7 +10,9 @@ Final Project/Presentation for CS 4316/5313, Computer Networks. Showcases Networ
 Special Thanks to:
 
 Erik S. LaNeave,
+
 Fernando H. Remes,
+
 Jacob A. Gonzalez.
 
 ## 🔎 Table of Contents
