@@ -3,8 +3,6 @@ Final Project/Presentation for CS 4316/5313, Computer Networks.
 
 Showcases Network Video & Image Displayer Using Docker Containers, a Docker system for sending media over a local network.
 
-[![](https://markdown-videos-api.jorgenkh.no/youtube/dQw4w9WgXcQ)](https://github.com/Azaze7/NVID-DC/blob/main/NVID-DC_Greetings_Video.mp4)
-
 <p align="center">
 <img src="https://github.com/Azaze7/NVID-DC/blob/main/NVID-DC_Greetings_Video.mp4" width="539" height="306">
 </p>
