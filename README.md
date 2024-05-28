@@ -19,12 +19,12 @@ Jacob A. Gonzalez.
 
 ## 🔎 Table of Contents
 
-1. What is Powershell-Empire?
+1. What is NVID-DC? What is Docker?
 2. What Files are Enclosed Here?
 3. Video Demonstration.
 4. Virtual Machine Usage.
 
-## ⌨️ What is Powershell-Empire? 
+## ⌨️ What is NVID-DC? What is Docker? 
 
 * Powershell-Empire was an open-source post-exploitation agent that ran through Windows Powershell.
 * It allowed for a user to generate attack scripts for use against other Windows machines, MacOS, or Linux subsystems.
@@ -34,11 +34,11 @@ Jacob A. Gonzalez.
 
 | Filename | Type | Description | 
 | --------------- | --------------- | --------------- |
-| DemoPresentation_Software... | .pptx | PowerPoint used during live demo. |
-| InfoPresentation_Software... | .pptx | PowerPoint used to inform audience about PowerShell-Empire. |
-| Poster_Software... | .pptx | PowerPoint that contains a single slide "poster" about PowerShell-Empire. |
-| Exercise_Software... | .docx | Word Document that contains instructions on how to use PowerShell-Empire, in the same format used in CS4177. |
-| Final_Powershell_Command_Encoded_Base64 | .ps1 | Script used in Windows PowerShell. It contains instructions to take control of a Windows 7 Professional Virtual Machine. |
+| NVID-DC_Final_Presentation... | .pptx | PowerPoint used during live demo & class presentation. |
+| NVID-DC_Final_Report... | .pdf | PDF file that contains a formal writeup about NVID-DC, its development, and any sources consulted. |
+| NVID-DC_client | .py | Python code for the client side of NVID-DC. It is used for sending files to other clients. |
+| NVID-DC_server | .py | Python code for the server side of NVID-DC. It is used for coordinating clients. |
+| sample-doc-run | .txt | Text file that contains a command to run the docker container. |
 | Powershell_Empire_Screenshot | .png | Sample Screenshot of Kali Linux & Windows 7 Professional. Used for this README. |
 
 ## 🎞️ Video Demonstration.
@@ -59,4 +59,3 @@ They were:
 2. Windows 7 Professional Edition. [Now discontinued and no longer supported by Microsoft, it can be obtained for free via Archive]
 * It can be found HERE:
    * https://archive.org/details/20230422_20230422_1429
-
