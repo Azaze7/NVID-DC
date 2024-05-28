@@ -1,5 +1,7 @@
 # NVID-DC
-Final Project/Presentation for CS 4316/5313, Computer Networks. Showcases Network Video & Image Displayer Using Docker Containers, a Docker system for sending media over a local network.
+Final Project/Presentation for CS 4316/5313, Computer Networks. 
+
+Showcases Network Video & Image Displayer Using Docker Containers, a Docker system for sending media over a local network.
 
 <p align="center">
 <img src="https://github.com/Azaze7/Fallen-Empire/blob/main/Powershell_Empire_Screenshot.png" width="539" height="306">
