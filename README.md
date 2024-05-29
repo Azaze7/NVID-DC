@@ -11,9 +11,9 @@ Showcases Network Video & Image Displayer Using Docker Containers, a Docker syst
 
 Special Thanks to:
 
-Erik S. LaNeave,
+[Erik S. LaNeave](https://github.com/ErikLaN68 "Erik's Github"),
 
-Fernando H. Remes,
+[Fernando H. Remes](https://github.com/FernRemes "Fernie's Github"),
 
 Jacob A. Gonzalez.
 
