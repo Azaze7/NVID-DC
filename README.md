@@ -1,4 +1,7 @@
 # NVID-DC
+
+UNDER CONSTRUCTION
+
 Final Project/Presentation for CS 4316/5313, Computer Networks. 
 
 Showcases Network Video & Image Displayer Using Docker Containers, a Docker system for sending media over a local network.
